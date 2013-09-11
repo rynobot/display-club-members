@@ -19,7 +19,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
   */
 
-/** Let's keep thing nice and neat...
+/** Keep thing nice and neat... */ 
 
 
 
